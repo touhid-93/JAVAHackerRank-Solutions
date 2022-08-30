@@ -1,3 +1,3 @@
 # JAVAHackerRank-Solutions
 
-link - https://www.hackerrank.com/domains/java
+Problems link - https://www.hackerrank.com/domains/java
