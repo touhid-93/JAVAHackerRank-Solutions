@@ -12,7 +12,6 @@ class Result {
         calendar.set(Calendar.YEAR, year);
         return calendar.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, new Locale("en", "US")).toUpperCase();
     }
-
 }
 
 public class Solution {
