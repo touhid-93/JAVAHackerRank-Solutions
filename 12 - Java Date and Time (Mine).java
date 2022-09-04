@@ -23,6 +23,7 @@ public class Solution {
         int month = scanner.nextInt();
         int day = scanner.nextInt();
         int year = scanner.nextInt();
+        scanner.close();
         
         String Day = Result.findDay(month, day, year);
         System.out.println(Day);
